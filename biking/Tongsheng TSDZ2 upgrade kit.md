@@ -1,21 +1,24 @@
-# Intro
-I purchased an electric motor upgrade for my bike. It's a sweet setup that's a lot of fun to ride. But its definitely an involved DIY project, so took a **lot** of research to figure everything out. There's a lot of confusing information out there, so wanted to put out my notes in case it's useful.
+# Electric motor bike upgrade
+I purchased an electric motor upgrade for my bike. It's a sweet setup that's a lot of fun to ride. But its definitely an involved DIY project, so took a **lot** of research to figure everything out. There's a lot of confusing information out there, so these are my own notes.
 
-My bike
+![Cannondale Bike](https://raw.githubusercontent.com/dannyrappleyea/me/main/biking/cannondale_tongsheng_upgrade.png)
+
+## My bike
 * Older Cannondale commuter
 * 67mm wide bottom bracket
 * Rim brakes
 * Shifter cables running outside the frame
 
-Settled on the Tongsheng TSDZ2 motor. Why?
+## Settled on the Tongsheng TSDZ2 motor. Why?
+It really came down to the Bafang BBS02 and Tongsheng TSDZ2. The Bafang seems more powerful, and more hackable, but uses cadence to activate. The Tongsheng has a torque sensor, so the harder you pedal, the more it contributes.
 * Thought that the torque sensors would give a more integrated feeling when riding
 * Can push it right to the limits of street legal
 * Can replace the firmware with an open-source version
 
-Purchased from Eco Cycles.
+## Purchased from Eco Cycles.
 * Wanted a US-based company that I could get support from
-* Could order everything in one kit that should work together
-* Super customizable
+* Could order everything in one kit that would work together
+* Their "build your own" option is super customizable.
 * They pre-install the open-source software, and apparently contribute heavily to the source
 
 [Build Your TSDZ2 Kit w/ 850C - Torque Sensing Pedal Assist, E-brakes,  – Eco Cycles](https://www.eco-ebike.com/collections/tongsheng-tsdz2/products/tsdz2-w-850c-torque-sensing-pedal-assist-with-throttle-and-e-brakes-36v-48v-52v-10-18a-250-750w)
@@ -127,7 +130,7 @@ No. You have to turn on the display for it to do anything, using the power butto
 
 At assist level 0, the motor doesn't activate. But bump it to level 1 or higher, crank the pedals, and the motor hummed to life. Woot!
 
-# Test ride
+## Test ride
 Upgrading a bike in the dead of winter with days of almost-freezing rain was probably not the smartest move. But who cares. Had to try it anyway.
 
 At level 1 assist, it almost imperceptibly helped out. Basically, it offsets the added weight everything adds, and feels about like riding the bike before I installed anything.
@@ -136,7 +139,7 @@ At the max level 20 assist, feel like the [Six Million Dollar Man |YouTube](http
 
 The motor does add noise, though it's far louder on the repair stand than out actually riding it. More like a low hum than anything annoying. That's one of the reasons I stayed with the plastic gear, reading online that the sturdier metal replacement is louder.
 
-# Tuning
+## Tuning
 The default settings in the open-source firmware are metric measurements, and very conservative on battery power. I went into the settings on the display to tune these.
 
 [Features and configurations on display · OpenSourceEBike/TSDZ2_wiki Wiki · GitHub](https://github.com/OpenSourceEBike/TSDZ2_wiki/wiki/Features-and-configurations-on-display)
@@ -148,7 +151,7 @@ Motor max current: 16 amp
 
 The TSDZ2 seems to have a maximum 18amp power draw. The battery can provide 40amp max, 30amps recommended. The firmware was set to 10 amps. Bumped it to 16, and might take it to 18 later on.
 
-# Accessories
+## Accessories
 The motor and battery take away the kickstand and water bottle holder, so I had to order new ones that attached to alternate locations.
 
 [BV Alloy Adjustable Height Rear Side Bicycle Kick Stand](https://www.amazon.com/gp/product/B00LNM79CQ)
