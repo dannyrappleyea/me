@@ -123,7 +123,8 @@ All the connectors have interlocking rubber gaskets that seem water resistant.
 ## Brake levers
 These looked the same as my old ones, but with a sensor built in to turn off the motor when braking. Connected the sensor to the wiring harness. The brake cable attaches the same way. Tested, and the motor turns off when either brake is pressed.
 
-# Powering it on
+# Riding it
+## Powering it on
 After installing everything, it did exactly nothing. No sign of life. Cranking the pedals did nothing. Thought I had a bum unit.
 
 No. You have to turn on the display for it to do anything, using the power button on the display controls. In hindsight, *Duh*.
@@ -157,7 +158,7 @@ The motor and battery take away the kickstand and water bottle holder, so I had 
 [BV Alloy Adjustable Height Rear Side Bicycle Kick Stand](https://www.amazon.com/gp/product/B00LNM79CQ)
 [TwoFish Quick Cage Adapter](https://www.amazon.com/gp/product/B003RLJ8L6)
 
-# Riding until battery depleted
+## Riding until battery depleted
 I had three beautiful rides, then the battery gave out on the fourth (at the bottom of a massive hill, of course). The display had shown the battery levels going down over the rides, but seemed to hang at 65% on the third and fourth rides. Was still there when it gave out. Guessing the display doesn't have the right settings for the battery somewhere.
 
 I measured the battery at ~43V. Settings cutoff is 42V to protect the battery from over-discharging. Think I had initially charged the battery to 80-90%. That got me 27-28 miles, right inline with the estimated 35 miles. When I recharged, the charger was set to 90%, which translates to 52V. Gonna try going to 100% charge right before the next ride (which should take the battery to 58V).
