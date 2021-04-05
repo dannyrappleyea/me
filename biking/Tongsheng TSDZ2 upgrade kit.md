@@ -1,5 +1,5 @@
 # Electric motor bike upgrade
-I purchased an electric motor upgrade for my bike. It's a sweet setup that's a lot of fun to ride. But its definitely an involved DIY project, so took a **lot** of research to figure everything out. There's a lot of confusing information out there, so these are my own notes.
+I have an older Cannondale commuter bike that I wanted to upgrade to electric, so installed a Tongsheng TSDZ2 motor. It's a sweet setup that's a lot of fun to ride. But its definitely an involved DIY project, that took a **lot** of research to figure everything out. There's a lot of confusing information out there, so adding my own install notes.
 
 ![Cannondale Bike](https://raw.githubusercontent.com/dannyrappleyea/me/main/biking/cannondale_tongsheng_upgrade.png)
 
